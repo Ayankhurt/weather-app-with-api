@@ -1,4 +1,3 @@
-import './Home.css';
 import axios from 'axios';
 import { useState } from 'react';
 
@@ -52,3 +51,4 @@ const Home = () => {
 };
 
 export default Home;
+// end //
